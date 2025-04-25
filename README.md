@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 # My-GitHub-Project-IngRequisitos
+=======
+# ISWREQUERIMIENTOS_10184-28
+ISWREQUERIMIENTOS_10184-28
+>>>>>>> e596bd2f01361e27b1b8aa031f4f05f5d6554078
